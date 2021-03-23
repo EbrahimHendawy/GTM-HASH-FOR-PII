@@ -3,5 +3,5 @@ documentation: "https://www.ebrahim.me/"
 versions:
   # Latest version
   - sha: f38f8cf63d5047c8e644d5b8e1a3261e50ba502a
-    changeNotes: |1
+    changeNotes: |2
       Beta Version
