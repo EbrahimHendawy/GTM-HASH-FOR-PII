@@ -1,0 +1,7 @@
+homepage: "https://www.ebrahim.me"
+documentation: "https://www.ebrahim.me/"
+versions:
+  # Latest version
+  - sha: d71cb95a321a05c16cfaea7764a79ca5ef064032
+    changeNotes: |1
+      Beta Version
